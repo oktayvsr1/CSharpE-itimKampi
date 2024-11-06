@@ -16,3 +16,5 @@ For, While ve doWhile döngülerin olduğu konuyu  tamamladım.
   Metotlara giriş yapıldı. geriye değer döndüren ve döndürmeyen ayrıca paarametreli metotlar kullanıldı.
  ## 9.Proje
   Kısa bir sql girişi oldu; tabl oluşturma ve bir kaç veri girişi yapıldı. C# ile sql bağlantısı yapılıp ADO.Net ile veriler listelendi
+ ## 10.Proje
+  Crud işlemlerine geçildi. Listeleme, ekeleme, silme ve güncelleme işlemi yapıldı.

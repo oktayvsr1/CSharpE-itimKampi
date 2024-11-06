@@ -42,6 +42,7 @@ namespace _09_DatabaseProject
                 {
                     Console.WriteLine(item);
                 }
+                Console.WriteLine();
             }
 
             Console.Read();

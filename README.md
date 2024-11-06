@@ -12,3 +12,7 @@ For, While ve doWhile döngülerin olduğu konuyu  tamamladım.
  Diziler konusunu tamamladım.
 ## 7.Proje
  ForeachLoop konusunu tamamladım.
+ ## 8.Proje
+  Metotlara giriş yapıldı. geriye değer döndüren ve döndürmeyen ayrıca paarametreli metotlar kullanıldı.
+ ## 9.Proje
+  Kısa bir sql girişi oldu; tabl oluşturma ve bir kaç veri girişi yapıldı. C# ile sql bağlantısı yapılıp ADO.Net ile veriler listelendi
